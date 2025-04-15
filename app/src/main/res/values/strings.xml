@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_logo_content_description">App Logo</string>
+    <string name="create_button_text">Create</string>
+    <string name="view_button_text">View</string>
+    <string name="about_button_text">About</string>
+    <string name="footer_text">© 2025 Your Company</string>
+    <string name="slogan_text">Ang Lakas ng Bukas, Nasa Iyong mga Kamay</string>
+
+
+    <string name="app_name_form">Xeralco Form</string>
+    <string name="submit_button">SUBMIT</string>
+
+    <!-- Labels -->
+    <string name="name_label">Name:</string>
+    <string name="dob_label">Date of Birth:</string>
+    <string name="address_label">Address:</string>
+    <string name="contact_number_label">Contact Number:</string>
+    <string name="email_label">Email:</string>
+    <string name="occupation_label">Occupation:</string>
+    <string name="sex_label">Sex:</string>
+    <string name="civil_status_label">Civil Status:</string>
+    <string name="age_label">Age:</string>
+    <string name="gender_label">Gender:</string>
+    <string name="religion_label">Religion:</string>
+    <string name="language_label">Language:</string>
+    <string name="fathers_occupation_label">Father’s Occupation:</string>
+    <string name="mothers_occupation_label">Mother’s Occupation:</string>
+    <string name="current_living_label">Current Living:</string>
+    <string name="position_label">Position:</string>
+
+    <!-- Hints -->
+    <string name="hint_enter_name">Enter Name</string>
+    <string name="dob_hint">DD/MM/YYYY</string>
+    <string name="address_hint">Enter Address</string>
+    <string name="contact_number_hint">Enter Contact Number</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="occupation_hint">Enter Your Occupation</string>
+    <string name="sex_hint">Enter Sex</string>
+    <string name="civil_status_hint">Enter Civil Status</string>
+    <string name="age_hint">Enter Age</string>
+    <string name="gender_hint">Enter Gender</string>
+    <string name="religion_hint">Enter Religion</string>
+    <string name="language_hint">Enter Language</string>
+    <string name="fathers_occupation_hint">Enter Father’s Occupation</string>
+    <string name="mothers_occupation_hint">Enter Mother’s Occupation</string>
+    <string name="current_living_hint">Enter Current Living</string>
+    <string name="position_hint">Enter Position</string>
+    <string name="todo">TODO</string>
+    <string name="back_button">Back Button</string>
+    <string name="LIST01">TODO</string>
+    <string name="www_xeralco_com">www.Xeralco.com</string>
+    <string name="main">TODO</string>
+    <string name="name">NAME</string>
+    <string name="name02">NAME</string>
+    <string name="name03">NAME</string>
+    <string name="name04">NAME</string>
+    <string name="name05">NAME</string>
+    <string name="name06">NAME</string>
+    <string name="name07">NAME</string>
+    <string name="manager">Manager</string>
+    <string name="employee_s_list">EMPLOYEE’S LIST</string>
+    <string name="cener">TODO</string>
+
+</resources>
